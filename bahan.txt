@@ -1,0 +1,3 @@
+kelas : genap
+nim : e1e119032
+nama: muhammad algazali
