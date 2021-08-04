@@ -66,7 +66,8 @@ while active :
     print("\nMenu : \n 1. Reverse File \n 2. Matching Delimiters \n 3. Keluar")
     pilih = int(input("Masukkan Pilihan Menu : "))
     if pilih == 1 :
-        namaFile = input("Masukkan Nama File : ")
+        print("file yang tersedia = 1. bahan")
+        namaFile = input("Masukkan Nama File (bahan): ")
         print(namaFile + ".txt")
         reverse_file(namaFile + ".txt")
     elif pilih == 2 :
